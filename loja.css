@@ -1,0 +1,232 @@
+.site{
+    display: flex;
+    justify-content: center;
+}
+.cabecalho{
+    justify-content: center;
+    justify-content: space-between;
+display:flex ;
+width: 1200px;
+height: 80px;
+}
+
+#logo{
+background: blueviolet;
+}
+
+.pesquisar{
+display: flex;
+align-items: center;
+}
+
+.perfil{
+display: flex;
+align-items: center;
+}
+
+.btn-search{
+padding: 10px 20px;
+font-size: 16px;
+font-weight: bold;
+}
+
+.input-busca{
+    padding: 10px 20px;
+}
+
+.bnt-primario{
+    background: crimson;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #f2f2f2;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.bnt-primario span{
+margin-left: 6px;
+}
+
+.ion-icon{
+background: chartreuse;
+}
+
+.categoria{
+    margin-top: 100px;
+    margin-left:140px;
+    display: flex;
+    justify-content: center;
+    width:1200px;
+    justify-content: space-between;
+    
+}
+
+.etapas{
+    color: #f2f2f2;
+ background: crimson;
+ margin: 10px;
+}
+
+.anuncio-principal{
+    display: flex;
+    margin-left:140px;
+    justify-content: center;
+    margin-top: 100px;
+    background: darkmagenta;
+    height:150px;
+    width:1200px;
+}
+
+.produtos{ 
+ display: flex;
+ margin-bottom: 10px;
+ justify-content: center;  
+}
+
+.pai{
+    margin-bottom: 100px;
+    justify-content: center;
+    background: mediumslateblue;
+    display: flex;
+    margin-bottom: 10px;
+    width: 1200px;
+    margin-top: 100;
+}
+
+.produto1{
+background:maroon;
+height: 200px;
+width: 250px;
+margin-left: 40px;
+}
+
+.produto2{
+    background: antiquewhite;
+    height: 200px;
+width: 250px;
+}
+
+.produto3{
+    background: aqua;
+    height: 200px;
+width: 250px;
+}
+
+.produto4{
+    background: black;
+    height: 200px;
+width: 250px;
+margin-right: 40px;
+}
+
+.mae{
+    margin-bottom: 100;
+    margin-left: 140px;
+    justify-content: center;
+    background: lawngreen;
+    display: flex;
+    margin-bottom: 10px;
+    width: 1200px;
+    margin-top: 100;
+}
+
+.produto5{
+ background: blue;   
+ height: 200px;
+width: 250px;
+margin-left: 40px
+}
+
+.produto6{
+  background: mediumvioletred;  
+  height: 200px;
+width: 250px;
+}
+
+.produto7{
+    background: orange;
+    height: 200px;
+width: 250px;
+}
+
+.produto8{
+    background: peru;
+    height: 200px;
+width: 250px;
+margin-right: 40px;
+}
+.rodape{
+    justify-content: center;
+    display: flex;
+    background: black;
+    width: 1200px;
+    margin-top: 30px;
+    margin-left: 140px;
+}
+
+.subrodape{
+    display: flex;
+    flex-direction: column;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.pai1{
+        background-color: #f2f2f2;
+        margin-left: 50px;
+        margin-right: 100px;
+    }
+    
+.mae1{
+        background-color: #f2f2f2;
+        margin-left: 50px;
+        margin-right: 100px;
+    }
+    
+    .tio{
+        background-color: #f2f2f2;
+        margin-left: 50px;
+        margin-right: 100px;
+    }
+
+    .tia{
+        background-color: #f2f2f2;
+        margin-left: 50px;
+        margin-right: 100px;
+    }
+
+    .pagamento{
+     display: flex;
+     margin-left: 140px;
+    }
+
+    .formas span{
+        justify-content: space-between;
+        margin-left: 6px;
+    }
+
+    .final{
+        display: flex;
+        background: chocolate;
+        width: 1200px;
+        margin-left: 140px;
+        
+    }
+
+    .imagem{
+        background: coral;
+        display: flex;
+        flex-wrap: wrap;
+       justify-content: flex-start;
+    }
+
+    .logos{
+        background: cornflowerblue;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end; 
+        
+    }
+
+    
